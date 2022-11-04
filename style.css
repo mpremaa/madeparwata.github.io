@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ffbc80;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#reference {
+  background-color: #ff9f45;
+}
+
+#priceing {
+  background-color: #ffd07f;
+}
+
+#contact {
+  background-color: #f7f7f7;
+}
+
+footer {
+  background-color: #ffd000;
+  padding-bottom: 2rem;
+}
